@@ -12,3 +12,6 @@ TECHNICAL PART:
 
 I developed a mssql database and adjust it as backend. 
 I realized the frontend with Visual Basic.
+
+APP IN ACTION (Video-Link):
+https://drive.google.com/file/d/1VE8hxWlK-hGOXr4ej051g10G0_Kza5EO/view?usp=sharing
